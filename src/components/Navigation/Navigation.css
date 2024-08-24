@@ -1,0 +1,23 @@
+.container {
+max-width: 1180px;
+margin: 0 auto;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+    margin-top: -4px;
+  }
+  
+  nav ul{
+    display: flex;
+    list-style-type: none;
+    gap:44px;
+    margin-right: 50px;
+    cursor: pointer;
+  }
+  
+  nav img{
+    margin-left: 40px;
+  }
