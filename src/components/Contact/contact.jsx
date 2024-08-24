@@ -4,10 +4,10 @@ const Contact = () => {
   return (
     <div className='contact-section'>
       <h1>CONTACT US</h1>
-      <p>Discover the best React project series ever created for
-         beginners! Follow along as we guide you through 10 engaging
-          projects that use Figma design to create stunning UI. From
-           building a to-do list app to a weather app.</p>
+    <p>LET’S CONNECT: WE’RE HERE TO HELP, AND WE’D LOVE TO
+      HEAR FROM YOU! WHETHER YOU HAVE A QUESTION, COMMENT,
+      OR JUST WANT TO CHAT , YOU CAN REACH OUT TO US THROUGH
+     THE CONTACT FORM OF THIS PAGE. </p>
     </div>
   )
 }
