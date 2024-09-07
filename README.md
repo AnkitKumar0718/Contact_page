@@ -1,9 +1,11 @@
 # Spotify Music App
 
 ## 🙌 Introduction
+
 This project is a Spotify Clone built using modern web development technologies. The app is fully responsive, and users can browse music albums, search for tracks, and enjoy a seamless experience across devices. This web application is built using React, Tailwind, Redux Toolkit, Firebase and other various technologies.
 
 ![Alt text](public/images/Spotify_readme.png)
+
 
 ## Features
 - Responsive Design: The app is fully responsive, providing an optimal user experience across all devices.
