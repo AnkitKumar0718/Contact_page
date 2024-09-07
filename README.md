@@ -24,16 +24,6 @@ This project is a Spotify Clone built using modern web development technologies.
 - React Router DOM: Routing for navigation between components.
 - HTML5: For structuring web content.
 
-src/
-├── components/     # Reusable components like Navbar, Sidebar, etc.
-├── features/       # Redux Toolkit slices
-├── pages/          # Pages like Home, Search, etc.
-├── assets/         # Static assets like images, fonts
-├── App.js          # Main app component
-├── index.js        # Entry point of the app
-└── ...
-
-
 ## ❓ How To Use
 1. Fork this repository
 
@@ -47,7 +37,10 @@ $ git clone https://github.com/[YOUR ACCOUNT NAME]/.
 
 $ npm install
 ```
-Add all needed Environmental variables to `.env.` 
+4. Add all needed Environmental variables to `.env.`
+
+## Deployment Link
+https.........
 
 ## Authors
 Ankit Kumar and Dishant Shinde
